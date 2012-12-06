@@ -1,0 +1,30 @@
+{
+    "name": "dgram-server",
+    "version": "0.0.1",
+    "description": "Simple structured dgram server library",
+    "keywords": [
+        "framework",
+        "dgram"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/scottylogan/node-dgram-server.git"
+    },
+    "author": {
+        "name": "Scotty Logan",
+        "email": "scotty@scottylogan.com"
+    },
+    "homepage": "http://github.com/scottylogan/node-dgram-server",
+
+    "main": "lib/dgram-server.js",
+
+    "engines": {
+        "node": ">=0.8"
+    },
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        
+    }
+}
